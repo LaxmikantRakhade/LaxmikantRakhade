@@ -12,8 +12,16 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 </p>
 
+---
+
+## 🚀 Currently Learning
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+C;Power+BI+%7C+Tableau;Git+%7C+GitHub;Always+Learning+🚀" />
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+</p>
+
+<p align="center">
+  <b>Currently learning Python 🐍</b>
 </p>
 
 ---
@@ -27,16 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
-
 </div>
 
 ---
@@ -83,15 +81,15 @@
 <div align="center">
 
 <a href="https://laxmikantrakhade.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shrikantrakhade1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Mail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
