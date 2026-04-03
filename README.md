@@ -61,12 +61,25 @@
 <td align="center"><img height='40' src="https://skillicons.dev/icons?i=python"><br>Python</td>
 <td align="center"><img height='40' src="https://skillicons.dev/icons?i=c"><br>C</td>
 </tr>
+
 <tr>
-<td align="center"><img height='40' src="https://skillicons.dev/icons?i=powerbi"><br>Power BI</td>
-<td align="center"><img height='40' src="https://skillicons.dev/icons?i=tableau"><br>Tableau</td>
-<td align="center"><img height='40' src="https://skillicons.dev/icons?i=git"><br>Git</td>
-<td align="center"><img height='40' src="https://skillicons.dev/icons?i=github"><br>GitHub</td>
+<td align="center">
+  <img height='40' src="https://img.icons8.com/color/48/power-bi.png"/><br>Power BI
+</td>
+
+<td align="center">
+  <img height='40' src="https://img.icons8.com/color/48/tableau-software.png"/><br>Tableau
+</td>
+
+<td align="center">
+  <img height='40' src="https://skillicons.dev/icons?i=git"><br>Git
+</td>
+
+<td align="center">
+  <img height='40' src="https://skillicons.dev/icons?i=github"><br>GitHub
+</td>
 </tr>
+
 </table>
 
 </div>
