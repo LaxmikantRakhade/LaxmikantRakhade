@@ -18,14 +18,6 @@
 
 ---
 
-## 🎮 Fun Zone
-
-<div align="center">
-  <img src="https://media.tenor.com/yipW0XdmrMkAAAAi/shin-chan-kiss-my-ass.gif" width="200"/>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
