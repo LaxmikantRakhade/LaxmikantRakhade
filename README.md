@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Laxmikant+Rakhade+👋;Full+Stack+Developer+🚀;Learning+%7C+Coding+%7C+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Laxmikant+Rakhade+👋;CSE+Student+💻;Full+Stack+Developer+🚀;Learning+%7C+Coding+%7C+Growing" />
 </h1>
 
 <p align="center">
@@ -15,14 +15,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+C;Power+BI+%7C+Tableau;Git+%7C+GitHub;Always+Learning+🚀" />
 </p>
-
----
-
-## 🎮 Fun Zone
-
-<div align="center">
-  <img src="https://media.tenor.com/yipW0XdmrMkAAAAi/shin-chan-kiss-my-ass.gif" width="200"/>
-</div>
 
 ---
 
