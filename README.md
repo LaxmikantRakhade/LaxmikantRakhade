@@ -81,6 +81,62 @@
 <div align="center">
 
 <a href="https://laxmikantrakhade.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shrikantrakhade1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif?raw=true" width="600">
+
+### 💡 "Keep learning, keep building 🚀"
+
+</div><td align="center"><img height='40' src="https://skillicons.dev/icons?i=css"><br>CSS</td>
+<td align="center"><img height='40' src="https://skillicons.dev/icons?i=js"><br>JavaScript</td>
+<td align="center"><img height='40' src="https://skillicons.dev/icons?i=python"><br>Python</td>
+<td align="center"><img height='40' src="https://skillicons.dev/icons?i=c"><br>C</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img height='40' src="https://img.icons8.com/color/48/power-bi.png"/><br>Power BI
+</td>
+
+<td align="center">
+  <img height='40' src="https://img.icons8.com/color/48/tableau-software.png"/><br>Tableau
+</td>
+
+<td align="center">
+  <img height='40' src="https://skillicons.dev/icons?i=git"><br>Git
+</td>
+
+<td align="center">
+  <img height='40' src="https://skillicons.dev/icons?i=github"><br>GitHub
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://laxmikantrakhade.github.io">
   <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
