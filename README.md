@@ -19,13 +19,13 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Abhishekraut01">
+  <a href="https://github.com/Laxmikant Rakhade">
     <img src="https://img.shields.io/github/followers/Abhishekraut01?label=Followers&style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="GitHub Followers">
   </a>
   <a href="https://github.com/Abhishekraut01?tab=repositories">
     <img src="https://img.shields.io/github/stars/Abhishekraut01?label=Stars&style=for-the-badge&color=58A6FF&labelColor=1a1b27" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/Abhishekraut01">
+  <a href="https://github.com/Laxmikant Rakhade">
     <img src="https://komarev.com/ghpvc/?username=Abhishekraut01&style=for-the-badge&color=FF6B6B&labelColor=1a1b27" alt="Profile Views">
   </a>
 </div>
