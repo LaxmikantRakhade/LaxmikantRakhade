@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+C;Power+BI+%7C+Tableau;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+C;Power+BI+%7C+Tableau;Git+%7C+GitHub;Always+Learning+🚀" />
 </p>
 
 ---
@@ -64,6 +64,8 @@
 <tr>
 <td align="center"><img height='40' src="https://skillicons.dev/icons?i=powerbi"><br>Power BI</td>
 <td align="center"><img height='40' src="https://skillicons.dev/icons?i=tableau"><br>Tableau</td>
+<td align="center"><img height='40' src="https://skillicons.dev/icons?i=git"><br>Git</td>
+<td align="center"><img height='40' src="https://skillicons.dev/icons?i=github"><br>GitHub</td>
 </tr>
 </table>
 
