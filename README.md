@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+C;Power+BI+%7C+Tableau;Git+%7C+GitHub;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript;C;Power+BI+%7C+Tableau;Git+%7C+GitHub;Always+Learning+🚀" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ---
@@ -50,7 +50,13 @@
 <td align="center"><img height='40' src="https://skillicons.dev/icons?i=html"><br>HTML</td>
 <td align="center"><img height='40' src="https://skillicons.dev/icons?i=css"><br>CSS</td>
 <td align="center"><img height='40' src="https://skillicons.dev/icons?i=js"><br>JavaScript</td>
-<td align="center"><img height='40' src="https://skillicons.dev/icons?i=python"><br>Python</td>
+
+<td align="center">
+  <img height='40' src="https://skillicons.dev/icons?i=python"><br>
+  <del>Python</del><br>
+  <small>(learning)</small>
+</td>
+
 <td align="center"><img height='40' src="https://skillicons.dev/icons?i=c"><br>C</td>
 </tr>
 
