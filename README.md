@@ -27,8 +27,8 @@
 </div>
 
 <div align="center">
-  <!-- ✅ ONLY THIS MADE TRANSPARENT -->
-  <img src="https://streak-stats.demolab.com?user=laxmikantrakhade&theme=tokyonight&hide_border=true&transparent=true" />
+  <!-- ✅ TRANSPARENT STREAK CARD FIXED -->
+  <img src="https://streak-stats.demolab.com?user=laxmikantrakhade&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
 ---
