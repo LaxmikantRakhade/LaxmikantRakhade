@@ -22,11 +22,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laxmikantrakhade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmikantrakhade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=laxmikantrakhade&theme=tokyonight&hide_border=true&background=0d1117" />
+  <!-- ✅ ONLY THIS MADE TRANSPARENT -->
+  <img src="https://streak-stats.demolab.com?user=laxmikantrakhade&theme=tokyonight&hide_border=true&transparent=true" />
 </div>
 
 ---
