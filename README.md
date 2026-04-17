@@ -21,16 +21,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- ✅ Transparent GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmikantrakhade&show_icons=true&theme=tokyonight&hide_border=true&transparent=true" height="180"/>
+  <!-- ✅ FULLY TRANSPARENT -->
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmikantrakhade&show_icons=true&theme=transparent&hide_border=true" height="180"/>
   
-  <!-- ✅ Transparent Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmikantrakhade&layout=compact&theme=tokyonight&hide_border=true&transparent=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmikantrakhade&layout=compact&theme=transparent&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
-  <!-- ✅ Transparent Streak -->
-  <img src="https://streak-stats.demolab.com?user=laxmikantrakhade&theme=tokyonight&hide_border=true&background=00000000" />
+  <!-- ✅ TRANSPARENT STREAK -->
+  <img src="https://streak-stats.demolab.com?user=laxmikantrakhade&theme=transparent&hide_border=true" />
 </div>
 
 ---
@@ -39,7 +38,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=laxmikantrakhade&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=laxmikantrakhade&theme=flat&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
